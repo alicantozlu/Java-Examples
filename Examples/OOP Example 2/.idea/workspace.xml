@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b86efc22-5d7c-41ff-a2b4-d89ed4263257" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UmZUI3wmmfiroidkumw0WgodzX" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SRP.Main" />
+      <module name="SRP_Example" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Non_SRP.Main" />
+      <module name="SRP_Example" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="521" y="196" key="#Project_Structure" timestamp="1575963971394">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="521" y="196" key="#Project_Structure/1920.0.1858.1080/3840.0.1920.1040/0.0.1858.1080@0.0.1858.1080" timestamp="1575963971394" />
+    <state x="383" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575964823858">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="383" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1858.1080/3840.0.1920.1040/0.0.1858.1080@0.0.1858.1080" timestamp="1575964823858" />
+    <state width="1837" height="155" key="GridCell.Tab.0.bottom" timestamp="1575980643545">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="155" key="GridCell.Tab.0.bottom/1920.0.1858.1080/3840.0.1920.1040/0.0.1858.1080@0.0.1858.1080" timestamp="1575980643545" />
+    <state width="1837" height="155" key="GridCell.Tab.0.center" timestamp="1575980643545">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="155" key="GridCell.Tab.0.center/1920.0.1858.1080/3840.0.1920.1040/0.0.1858.1080@0.0.1858.1080" timestamp="1575980643545" />
+    <state width="1837" height="155" key="GridCell.Tab.0.left" timestamp="1575980643545">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="155" key="GridCell.Tab.0.left/1920.0.1858.1080/3840.0.1920.1040/0.0.1858.1080@0.0.1858.1080" timestamp="1575980643545" />
+    <state width="1837" height="155" key="GridCell.Tab.0.right" timestamp="1575980643545">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="155" key="GridCell.Tab.0.right/1920.0.1858.1080/3840.0.1920.1040/0.0.1858.1080@0.0.1858.1080" timestamp="1575980643545" />
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1575964830814">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup/1920.0.1858.1080/3840.0.1920.1040/0.0.1858.1080@0.0.1858.1080" timestamp="1575964830814" />
+  </component>
+</project>

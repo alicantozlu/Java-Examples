@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Typer_Last:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Typer_Last_jar</output-path>
+    <root id="archive" name="Typer_Last.jar">
+      <element id="module-output" name="Typer_Last" />
+    </root>
+  </artifact>
+</component>

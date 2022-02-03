@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85b0e0ea-9430-4914-b91c-e19391424aad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VYwns3sZ4SP05koSjLFMJC1kpZ" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="Adapter_Example_5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="247" key="#com.intellij.ide.util.MemberChooser" timestamp="1577443759509">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="734" y="247" key="#com.intellij.ide.util.MemberChooser/1920.0.1858.1080/3840.0.1920.1040/0.0.1858.1080@0.0.1858.1080" timestamp="1577443759509" />
+    <state width="597" height="912" key="GridCell.Tab.0.bottom" timestamp="1577451993239">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state width="597" height="912" key="GridCell.Tab.0.bottom/-1858.0.1858.1080/62.0.1858.1080/-3840.0.1858.1080@-1858.0.1858.1080" timestamp="1577451993239" />
+    <state width="1837" height="295" key="GridCell.Tab.0.bottom/1920.0.1858.1080/3840.0.1920.1040/0.0.1858.1080@0.0.1858.1080" timestamp="1577444321434" />
+    <state width="597" height="912" key="GridCell.Tab.0.center" timestamp="1577451993238">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state width="597" height="912" key="GridCell.Tab.0.center/-1858.0.1858.1080/62.0.1858.1080/-3840.0.1858.1080@-1858.0.1858.1080" timestamp="1577451993238" />
+    <state width="1837" height="295" key="GridCell.Tab.0.center/1920.0.1858.1080/3840.0.1920.1040/0.0.1858.1080@0.0.1858.1080" timestamp="1577444321434" />
+    <state width="597" height="912" key="GridCell.Tab.0.left" timestamp="1577451993238">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state width="597" height="912" key="GridCell.Tab.0.left/-1858.0.1858.1080/62.0.1858.1080/-3840.0.1858.1080@-1858.0.1858.1080" timestamp="1577451993238" />
+    <state width="1837" height="295" key="GridCell.Tab.0.left/1920.0.1858.1080/3840.0.1920.1040/0.0.1858.1080@0.0.1858.1080" timestamp="1577444321433" />
+    <state width="597" height="912" key="GridCell.Tab.0.right" timestamp="1577451993239">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state width="597" height="912" key="GridCell.Tab.0.right/-1858.0.1858.1080/62.0.1858.1080/-3840.0.1858.1080@-1858.0.1858.1080" timestamp="1577451993239" />
+    <state width="1837" height="295" key="GridCell.Tab.0.right/1920.0.1858.1080/3840.0.1920.1040/0.0.1858.1080@0.0.1858.1080" timestamp="1577444321434" />
+    <state x="2591" y="361" key="com.intellij.ide.util.TipDialog" timestamp="1578481605323">
+      <screen x="1982" y="0" width="1858" height="1080" />
+    </state>
+    <state x="671" y="361" key="com.intellij.ide.util.TipDialog/-1858.0.1858.1080/-3840.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1578089056687" />
+    <state x="2591" y="361" key="com.intellij.ide.util.TipDialog/0.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1578481605323" />
+  </component>
+</project>
